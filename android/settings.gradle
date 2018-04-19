@@ -1,0 +1,3 @@
+rootProject.name = 'UIinsta'
+
+include ':app'
